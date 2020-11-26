@@ -6,7 +6,6 @@
 [![Total Downloads](https://poser.pugx.org/odenktools/laravel-bca/downloads)](https://packagist.org/packages/odenktools/laravel-bca)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fodenktools%2Flaravel-bca.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fodenktools%2Flaravel-bca?ref=badge_shield)
 
-# Laravel BCA (Bank Central Asia)
 
 Laravel PHP library untuk mengintegrasikan Aplikasi Anda dengan sistem BCA (Bank Central Asia). Untuk dokumentasi lebih jelas dan lengkap, silahkan kunjungi website resminya di [Developer BCA](https://developer.bca.co.id/documentation)
 
